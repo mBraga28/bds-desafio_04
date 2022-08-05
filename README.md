@@ -13,20 +13,22 @@ Um usuário possui nome, email e senha, sendo que o email é seu nome de usuári
 
 <h3>Requisitos do seed para os testes passarem: </h3>
    Seu seed deve conter dois usuários: 
-		 <ul>
-       <li>	Usuário somente com perfil VISITOR: 
-			     <ul>
-					    <li>email: bob@gmail.com </li>
+   <ul>
+       <li>Usuário somente com perfil VISITOR: 
+	  <ul>
+	      <li>email: bob@gmail.com </li>
               <li>senha: 123456 </li>
-					 </ul>
-			 </li>
-		 </ul>			
-		 <ul>
+	  </ul>
+       </li>
+   </ul>			
+   <ul>
        <li>Usuário com perfil MEMBER:
-			    <ul>
-			       <li>email: ana@gmail.com </li>
-						 <li>senha: 123456 </li>
-			    </ul>
-			 </li>
-		 </ul>	
+	  <ul>
+	      <li>email: ana@gmail.com </li>
+	      <li>senha: 123456 </li>
+	  </ul>
+       </li>
+   </ul>	
    
+<h3>Collection do Postman:</h3>
+https://www.getpostman.com/collections/72a46c64473b7611a021
