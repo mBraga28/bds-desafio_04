@@ -8,15 +8,25 @@ Ao selecionar um filme da listagem, é mostrada uma página de detalhes, onde é
 Um usuário possui nome, email e senha, sendo que o email é seu nome de usuário. Cada filme possui um título, subtítulo, uma imagem, ano de lançamento, sinopse, e um gênero. Os usuários membros podem registrar avaliações para os filmes. Um mesmo usuário membro pode deixar mais de uma avaliação para o mesmo filme.
 
 
-- Modelo conceitual
-![image](https://user-images.githubusercontent.com/92943261/182980359-e3ab90bd-366c-4aaf-8315-135af15eb15f.png)
+<h3>Modelo conceitual</h3>
+<img align="center" height="250" width="500" src="https://user-images.githubusercontent.com/92943261/182980359-e3ab90bd-366c-4aaf-8315-135af15eb15f.png">
 
-- Requisitos do seed para os testes passarem: </br>
-    Seu seed deve conter dois usuários: </br>
-	      a.	Usuário somente com perfil VISITOR: </br>
-            i.	email: bob@gmail.com </br>
-            ii.	senha: 123456 </br>
-        b.	Usuário com perfil MEMBER:</br>
-            i.	email: ana@gmail.com </br>
-            ii.	senha: 123456 </br>
-
+<h3>Requisitos do seed para os testes passarem: </h3>
+   Seu seed deve conter dois usuários: 
+		 <ul>
+       <li>	Usuário somente com perfil VISITOR: 
+			     <ul>
+					    <li>email: bob@gmail.com </li>
+              <li>senha: 123456 </li>
+					 </ul>
+			 </li>
+		 </ul>			
+		 <ul>
+       <li>Usuário com perfil MEMBER:
+			    <ul>
+			       <li>email: ana@gmail.com </li>
+						 <li>senha: 123456 </li>
+			    </ul>
+			 </li>
+		 </ul>	
+   
